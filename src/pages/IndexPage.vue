@@ -31,7 +31,7 @@
 
       <div>
         <q-btn label="ยืนยัน" type="submit" color="primary"/>
-        <q-btn label="ล้าง" type="reset" color="primary" flat class="q-ml-sm" />
+        <q-btn label="ล้างc" type="reset" color="primary" flat class="q-ml-sm" />
       </div>
     </q-form>
 
