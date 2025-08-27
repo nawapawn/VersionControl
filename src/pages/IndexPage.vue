@@ -12,7 +12,7 @@
         label="Full Name *"
         hint="Please enter your full name"
         lazy-rules
-        :rules="[ val => val && val.length > 0 || 'ลองใหม่อีกรอบ']"
+        :rules="[ val => val && val.length > 0 || 'Please type your name' ]"
       />
 
       <q-input
@@ -30,13 +30,8 @@
       <q-toggle v-model="accept" label="I accept the license and terms" />
 
       <div>
-<<<<<<< HEAD
-        <q-btn label="ยืนยัน" type="submit" color="primary"/>
-        <q-btn label="ล้าง" type="reset" color="primary" flat class="q-ml-sm" />
-=======
         <q-btn label="Submit" type="submit" color="primary"/>
         <q-btn label="Reset" type="reset" color="primary" flat class="q-ml-sm" />
->>>>>>> eng-lang
       </div>
     </q-form>
 
