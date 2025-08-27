@@ -1,0 +1,37 @@
+* [33m767a7a1[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m resetforlie
+* [33mdba82b1[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m merge
+*   [33m0bfb82e[m Merge branch 'eng-lang'
+[32m|[m[33m\[m  
+[32m|[m * [33m74e5af9[m[33m ([m[1;32meng-lang[m[33m)[m eng-lang web
+* [33m|[m   [33mfdb6740[m Merge branch 'thai-lang'
+[34m|[m[35m\[m [33m\[m  
+[34m|[m * [33m|[m [33mb1f6c93[m[33m ([m[1;32mthai-lang[m[33m)[m thai-lang web
+* [35m|[m [33m|[m [33m09c9eed[m forgot
+[36m|[m[35m\[m[35m|[m [33m|[m 
+[36m|[m * [33m|[m [33m1ab5c98[m[33m ([m[1;31morigin/thai-lang[m[33m)[m Update to thai lang
+[36m|[m [33m|[m[33m/[m  
+* [33m/[m [33m382bc81[m accept
+[33m|[m[33m/[m  
+[33m|[m * [33maefff82[m[33m ([m[1;35mrefs/stash[m[33m)[m WIP on eng-lang: c430bee Reset
+[33m|[m[33m/[m[1;33m|[m 
+[33m|[m * [33me792a82[m index on eng-lang: c430bee Reset
+[33m|[m[33m/[m  
+* [33mc430bee[m Reset
+* [33md5d3952[m Initial Thai-lang changes
+* [33me7b15fe[m reset
+*   [33mbf62d96[m new
+[1;34m|[m[1;35m\[m  
+[1;34m|[m * [33m8ceca4d[m submit and reset
+[1;34m|[m * [33m61a0230[m Edit label in submit and reset to Thai
+[1;34m|[m * [33m716edd0[m --oneline
+[1;34m|[m * [33m57136c5[m edit sript
+[1;34m|[m * [33m0436bd6[m edit form
+[1;34m|[m * [33mae0b03c[m vertion commit
+* [33m08ec351[m Edit age label waring 0<<100
+* [33m49834d8[m edit label age from Eng to Thai label
+* [33mcbfebc9[m edit notify
+* [33mbd4e55c[m edit sript
+* [33ma891f5c[m edit form
+* [33m8bf7a8d[m size img
+* [33m2c59b23[m nawapawn
+* [33m81a18c9[m nawapawn
