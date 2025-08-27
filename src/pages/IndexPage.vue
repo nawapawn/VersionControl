@@ -10,9 +10,9 @@
         filled
         v-model="name"
         label="ชื่อ-นามสกุล *"
-        hint="กรุณากรอกชื่อ-นามสกุลของคุณ"
+        hint="กรุณาใส่ชื่อ-นามสกุลของคุณ"
         lazy-rules
-        :rules="[ val => val && val.length > 0 || 'ลองใหม่อีกครั้ง']"
+        :rules="[ val => val && val.length > 0 || 'ลองใหม่อีกครั้ง' ]"
       />
 
       <q-input
@@ -22,8 +22,8 @@
         label="อายุ *"
         lazy-rules
         :rules="[
-          val => val !== null && val !== '' || 'กุณต้องกรอกอายุ',
-          val => val > 0 && val < 100 || 'กรุณากรอกอายุให้ถูกต้อง'
+          val => val !== null && val !== '' || 'กรุณาใส่อายุ',
+          val => val > 0 && val < 100 || 'กรุณาใส่อายุที่ถูกต้อง'
         ]"
       />
 
